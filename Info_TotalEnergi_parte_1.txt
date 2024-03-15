@@ -1,0 +1,156 @@
+Precios Luz TotalEnergies®
+A tu Aire Siempre sin impuestos
+
+Precio Potencia (€/kW día)	Precio Consumo (€/kWh)
+Potencia <= 10 kW	0,136685	0,120944
+* Precios válidos desde el 7 de marzo de 2024. Precios sin IVA.
+
+Programa tu Ahorro sin impuestos
+
+Precio Potencia P1 (€/kW día)	Precio Potencia P2 (€/kW día)	Precio Consumo P1 (€/kWh)	Precio Consumo P2 (€/kWh)	Precio Consumo P3 (€/kWh)
+Potencia <= 10 kW	0,068356	0,068329	0,166060	0,116598	0,096862
+* Precios válidos desde el 7 de marzo de 2024. Precios sin IVA.
+
+Me quiero cambiar de compañía, ¿qué debo hacer?
+¡No tienes que hacer nada! En TotalEnergies® nos encargamos de todo. Prepararemos una oferta adaptada a ti y tus necesidades.
+
+Una vez que realices la solicitud de oferta:
+
+En unos días recibirás el contrato por duplicado. Por favor devuélvenos una de las copias firmada en el sobre autofranqueo adjunto (no necesita sello).
+Tu solicitud de cambio de la nueva oferta de TotalEnergies en electricidad y/o gas tardará entre 5 y 10 días en activarse.
+Recibirás una última factura de tu compañía anterior por un periodo inferior al normal. A partir de entonces recibirás la factura de TotalEnergies con todas sus ventajas.
+Disfruta cuanto antes de las ventajas de TotalEnergies®.
+
+¿Qué potencia de eletricidad contrato?
+Una parte de la factura corresponde al término de potencia, éste procede de la potencia que tienes contratada, es decir se trata de un coste fijo.
+
+La potencia a contratar varía en función de la cantidad de aparatos eléctricos que utilices, de cuántos utilizas al mismo tiempo, del tamaño de la vivienda y de cuántas personas habitan en la misma.
+
+Si se trata de una primera contratación tu Boletín te indicará la potencia máxima que puedes contratar.
+
+Si se trata de una vivienda de segunda ocupación tendrás que comprobar cuántos electrodomésticos tienes, la potencia que demanda cada uno de ellos y cuántos utilizas de manera simultánea.
+
+Llámanos al 900 909 365 y te ayudaremos a elegir la tarifa que más se adapte a tus necesidades.
+
+¿En qué se diferencian los Planes A tu Aire Siempre y Programa tu Ahorro?
+La diferencia entre los Planes A tu Aire Siempre y Programa tu Ahorro es que en el primero tendrás un mismo precio de la electricidad las 24 horas del día, por lo que puedes despreocuparte del momento de consumo. Mientras que en el segundo tendrás tres precios de consumo distintos en función de tus hábitos de consumo, lo mejor si consumes el fin de semana o por la noche.
+
+Los horarios de Programa tu Ahorro son los siguientes:
+
+Potencia
+Punta + Llano de 8:00 horas a 24:00 horas de lunes a viernes.
+Valle de 24:00 horas a 8:00 horas de lunes a viernes y, sábados, domingos y festivos nacionales las 24 horas.
+Consumo
+Punta de 10:00 horas a 14:00 horas y de 18:00 horas a 22:00 horas de lunes a viernes.
+Llano de 8:00 horas a 10:00 horas, de 14:00 horas a 18:00 horas y de 22:00 horas a 24:00 horas.
+Valle de 24:00 horas a 8:00 horas de lunes a viernes y, sábados, domingos y festivos nacionales las 24 horas.
+Si quieres más información, llámanos al 900 909 365 y te informaremos sin compromiso de todos los precios con y sin discriminación horaria.
+
+¿Cuánto cuesta dar de alta la luz?
+El precio de dar de alta la luz en una vivienda varía en función de la situación en la que se encuentre el suministro eléctrico (si existe o no) y de la potencia, pudiendo oscilar entre los 38 € y los 320 €.
+
+Si vas a dar de alta la luz en una vivienda nueva, deberás pagar los derechos de alta. Estos costes se dividen en diferentes derechos que deben pagarse.
+
+Los derechos de extensión: se abonan a la distribuidora y cubren la creación, mantenimiento y reparación de la infraestructura eléctrica del inmueble, siendo de aproximadamente 17,37 €/kW + IVA.
+Los derechos de acceso: están fijados por el gobierno, se refieren a los costes relacionados con el acceso a la red eléctrica y se basan en la potencia contratada, siendo de alrededor de 19,70 €/kW + IVA.
+Los derechos de enganche: son costes administrativos asociados al establecimiento del suministro eléctrico e incluyen la instalación del contador y otros trámites necesarios, siendo de aproximadamente 9,04 € + IVA.
+Cuando se trata de dar de alta la luz en una vivienda nueva, se deben pagar los derechos de alta mencionados anteriormente. Estos derechos incluyen los de extensión, acceso y enganche.
+
+En el caso de dar de alta la luz nuevamente debido a cambios en la titularidad del suministro o suspensión temporal del mismo, el precio final puede variar según la situación específica.
+
+Si el suministro fue dado de baja hace menos de 3 años, solo será necesario pagar los derechos de enganche (9,04 + IVA).
+Si el suministro fue dado de baja hace más de 3 años, se deberán pagar todos los derechos de alta (enganche, extensión y acceso.
+En cualquiera de los casos, alta nueva o reactivación del suministro, los costes de dar de alta la luz, se verán reflejados en la factura de la luz. Es decir, no se abonan a parte.
+
+Además, en el proceso para dar de alta la luz en un hogar deberás tener a mano la siguiente documentación, cuando hables con la comercializadora.
+
+Nombre completo y DNI del titular del contrato de luz.
+La dirección del punto de suministro.
+La potencia contratada.
+El Código Universal del Punto de Suministro (CUPS).
+Número de la cuenta bancaria para domiciliar el pago de las facturas.
+Una vez que la comercializadora le pase toda la información a la distribuidora, la misma dispone de un plazo de 7 días hábiles para activar el suministro eléctrico. En el caos de dar de alta la luz por primera vez, un técnico deberá acudir a instalar el contador y ajustarlo a la potencia contratada.
+
+¿Qué es el certificado de instalación eléctrica y para qué lo necesito?
+También conocido como CIE o Boletín. Se trata de un documento emitido por un electricista oficial autorizado que certifica que la instalación cumple con todos los requisitos necesarios para el suministro. Refleja las características de la instalación (ej. la potencia máxima que puedes contratar).
+
+¿Cuándo necesitaré un Boletín?
+
+La primera vez que contrates suministro eléctrico.
+Si tu instalación tiene más de 20 años de antigüedad.
+Cuando quieras contratar más potencia que la que consta como máxima permitida por tu actual Boletín.
+
+¿Qué es una tarifa con discriminación horaria?
+La tarifa con discriminación horaria es un modelo de facturación eléctrica que ofrece diferentes precios para el consumo de energía dependiendo de la hora del día. Esta estructura tarifaria tiene como objetivo incentivar el uso de electricidad en horarios en los que la demanda es menor, aliviando así la carga en el sistema eléctrico y fomentando una distribución más eficiente de los recursos energéticos.
+
+Las tarifas de luz por horas ofreces diferentes precio para el kilovatio-hora (kWh) consumido, en función de si es por la mañana o de madrugada. Con este tipo de tarifas podrás ajustar tus hábitos de consumo y utilizar la energía eléctrica cuando su coste sea más bajo.
+
+Tramos horarios en la discriminación horaria
+La tarifa de luz por horas divide el día en tres periodos: punta, llana y valle. En función de en qué momento del día consumas, el precio del kWh será mayor o menor:
+
+Hora Punta: en este tramo el precio kWh es más caro y abarca desde las 10.00 hasta las 14.00h y, por la tarde, de 18.000 a 22.00 h. De lunes a viernes, siempre que sean laborables.
+
+Hora Valle: este periodo incluye la madrugada y las primeras horas de la mañana, como de 00:00 a 08:00, cuando la demanda es menor. Y los fines de semana y festivos, todo el día. En este tramo, el precio del kWh es el más barato.
+
+Hora Llana: se sitúa entre las horas punta y las horas valle, de 08.00 a 10.00h, 14.00 a 18.00 y de 22.00 a 00.00. Los lunes y viernes, siempre que sean laborables.
+
+Es esencial conocer estos tramos para poder adaptar tu consumo de energía y maximizar el ahorro.
+
+Potencial Ahorro con la Discriminación Horaria
+El potencial de ahorro variará según tus hábitos de consumo, pero se estima que, con un uso inteligente de la electricidad, puedes ahorrar entre un 10 % y un 25 % en tu factura mensual. La clave está en trasladar la mayor cantidad de consumo eléctrico a las horas valle, cuando el precio por kWh es menor.
+
+Cómo ahorrar si tienes una tarifa con discriminación horaria
+Si ya tienes contratada una tarifa con discriminación horaria, hay varias estrategias para maximizar tus ahorros:
+
+Planifica tus Tareas: realiza actividades que consumen más energía, como lavar la ropa o usar el lavavajillas, durante las horas valle.
+
+Carga de Dispositivos: carga smartphones, tablets y otros dispositivos electrónicos en las horas de menor costo.
+
+Programa Electrodomésticos: utiliza la función de programación en electrodomésticos como lavadoras, secadoras y termos eléctricos para que funcionen en horas valle.
+
+Uso Inteligente del Aire Acondicionado y Calefacción: si es posible, programa tu sistema de climatización para que se encienda en las horas más económicas.
+
+Almacenamiento de Energía: Si tienes la posibilidad, puedes considerar sistemas de almacenamiento de energía para cargar durante las horas valle y usar durante las horas punta.
+
+Iluminación: haz un uso inteligente de la iluminación, aprovechando la luz natural siempre que sea posible y utilizando tecnologías más eficientes como LED.
+
+Revisión de Consumo: consulta tu consumo eléctrico en diferentes horas del día para adaptar tus hábitos y optimizar tu factura.
+
+Herramientas de Monitorización: utiliza apps o dispositivos que te permiten conocer en tiempo real tu consumo energético. Esto te ayudará a tomar decisiones informadas sobre cuándo y cómo usar tus aparatos eléctricos.
+
+¿En qué se diferencia la tarifa con discriminación horaria de la PVPC?
+PVPC (Precio Voluntario al Pequeño Consumidor) es una tarifa regulada por el Gobierno que fluctúa cada hora según la oferta y demanda del mercado eléctrico. En cambio, la tarifa con discriminación horaria establece varios periodos con tarifas fijas para cada uno, aunque dichas tarifas pueden cambiar de un día para otro.
+
+Las principales diferencias son:
+
+Fluctuación del precio: en la PVPC, el precio varía cada hora, mientras que en la discriminación horaria hay precios establecidos para diferentes tramos.
+
+Complejidad: la PVPC puede ser más compleja de entender y gestionar debido a su variabilidad horaria, mientras que la discriminación horaria es más sencilla de planificar.
+
+Riesgo y oportunidad: con la PVPC, podrías beneficiarte de precios muy bajos en ciertos momentos, pero también estás expuesto a picos de alto costo. La discriminación horaria te permite anticipar cuándo será más económico consumir electricidad.
+
+¿Quien se beneficia de la tarifa con discriminación horaria?
+Aunque la tarifa con discriminación horaria tiene numerosos beneficios, no es la mejor opción para todos. Es ideal para quienes tienen la flexibilidad de adaptar su consumo a los diferentes periodos del día. Sin embargo, si la mayor parte de tu consumo eléctrico se produce en horas punta, es posible que no notes un ahorro significativo.
+
+Si estás interesado, en TotalEnergies está disponible la tarifa 'Programa tu ahorro', una tarifa de luz por horas con precios fijos y asequibles con los que podrás ahorrar en tu factura de la luz.
+
+ Ponte en contacto con nosotros si tienes alguna duda.
+
+¿Qué es un contador de luz?
+Un contador de luz o medidor eléctrico es un dispositivo utilizado para medir el consumo de electricidad que una vivienda, negocio o industria está utilizando. Este aparato es instalado generalmente por la empresa de suministro eléctrico y su objetivo principal es recoger datos precisos para facturar al usuario según su consumo eléctrico real.
+
+En un nivel más técnico, un contador de luz mide la cantidad de kilovatios-hora (kWh) que se han consumido en un periodo determinado.
+
+¿Cómo funciona un contador eléctrico?
+Un contador eléctrico tradicionalmente funciona en base a un sistema electromecánico. Sin embargo, con el avance de la tecnología, los contadores eléctricos modernos son más digitales y pueden ofrecer funciones avanzadas:
+
+Contadores electromecánicos: una bobina y un imán rotativo están conectados de tal manera que giran un disco a una velocidad proporcional al flujo de la corriente eléctrica que pasa a través del circuito. Este movimiento se traduce en un número en el contador, que se lee manualmente o automáticamente para determinar el consumo eléctrico. Es decir, hace una lectura estimada, que puede no corresponderse con el consumo real.
+
+Contadores digitales: utilizan componentes electrónicos para medir el consumo eléctrico. Estos dispositivos pueden tener funciones más avanzadas, como la habilidad de enviar información directamente a la empresa suministradora a través de una red, proporcionando datos más exactos y en tiempo real.
+
+¿Cómo sé qué tipo de contador de luz tengo?
+Identificar el tipo de contador de luz que tienes es un proceso bastante sencillo. Puedes comenzar por revisar el equipo físicamente. Los contadores electromecánicos suelen tener un disco que gira, mientras que los contadores digitales generalmente tienen una pantalla LCD donde se muestra la información del consumo. 
+
+Si el contador puede comunicar datos en tiempo real a tu compañía eléctrica o puedes controlarlo mediante una aplicación, es muy probable que tengas un contador inteligente.
+
+Otra forma es consultar con tu empresa suministradora de electricidad. Ellos pueden ofrecerte detalles técnicos sobre el tipo de contador instalado en tu propiedad.

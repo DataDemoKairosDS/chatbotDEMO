@@ -1,0 +1,140 @@
+¿Qué partes componen un contador digital?
+Un contador digital de luz puede parecer un poco complicado al principio, pero generalmente se compone de las siguientes partes:
+
+Pantalla LCD: muestra la información relacionada con tu consumo eléctrico. Puede mostrar datos como la cantidad de kilovatios-hora consumidos, la tarifa actual y otros mensajes o alertas.
+
+Botones de bloqueo: salta cuando se rebasa la potencia, es un ICP.
+
+Puerto de comunicación: los contadores digitales avanzados, especialmente los inteligentes, tienen puertos de comunicación para enviar y recibir datos. Estos pueden ser puertos USB, Ethernet o incluso conexiones inalámbricas.
+
+Luces indicadoras: las luces en un contador digital pueden indicar diversas cosas, desde el estado del suministro eléctrico hasta alertas específicas.
+
+Número de serie o identificación: es el mismo que aparece en tu contrato de luz, para asociar tu consumo a tu contrato.
+
+¿Qué indican las luces de mi contador de luz digital?
+Las luces en tu contador digital pueden ser un útil indicador del estado del dispositivo y del suministro eléctrico. Aquí hay un desglose general de lo que podrían significar:
+
+Luz Verde (o Azul): si es constante suele indicar que el suministro eléctrico es normal y que el dispositivo está funcionando como debería.
+
+Luz Roja: una luz roja puede ser una señal de alerta y suele indicar un problema. El significado específico puede variar, pero podría implicar un corte en el suministro, un problema de facturación o un error técnico.
+
+Luz Amarilla: algunos contadores tienen una luz amarilla que podría indicar un estado "en espera" o que cierta cantidad de electricidad se está consumiendo, pero no al nivel máximo.
+
+Intermitente: si una luz está parpadeando, es probable que esté indicando una actividad específica, como el envío o la recepción de datos.
+
+¿Dónde se coloca el contador de luz?
+La ubicación del contador de luz puede variar dependiendo de factores como la estructura del edificio, las normativas locales y las especificaciones de la empresa de suministro eléctrico. 
+
+Generalmente, los contadores se colocan en un lugar de fácil acceso para la lectura y el mantenimiento, y deben estar protegidos contra condiciones ambientales adversas. Pueden estar en el interior o en el exterior del edificio y en algunos casos, en un cuarto especial destinado para contadores en edificios de varias unidades.
+
+¿Comprar o alquilar el contador de luz?
+La mayoría de los usuarios optan por tener el contador de luz en régimen de alquiler, lo que suponer en la factura menos de 1 € al mes. El precio incluyen el cambio del mismo por avería o su mantenimiento.
+
+Mientras que si optas por comprarlo, su precio puedes varía en función del modelo, la marca y el instalador. Por lo general comprar un contador de luz puede llegar a costar entre los 90 y 200 euros.
+
+¿Qué impacto tiene el alquiler del contador en la factura de la luz?
+El costo del alquiler del contador se añade como un cargo adicional en tu factura de electricidad. Aunque la tarifa mensual puede parecer pequeña, este costo adicional puede sumarse considerablemente con el tiempo. 
+
+Es importante tener este factor en cuenta cuando estés evaluando tus gastos totales de electricidad y comparándolos con la opción de comprar tu propio contador.
+
+Ventajas del contador digital
+Los contadores digitales, especialmente los modelos más modernos e inteligentes, ofrecen varias ventajas:
+
+Exactitud: son generalmente más precisos que los modelos electromecánicos, lo que reduce el riesgo de facturación incorrecta.
+
+Comunicación en tiempo real: muchos modelos pueden comunicarse directamente con la empresa de suministro eléctrico, permitiendo una facturación más precisa y oportuna.
+
+Facilidad de uso: los contadores digitales suelen ser más fáciles de leer y entender, con pantallas LCD claras y menús navegables.
+
+Monitoreo del consumo: algunos modelos permiten el seguimiento en tiempo real del consumo de energía, lo cual puede ser una herramienta valiosa para reducir tus facturas.
+
+Flexibilidad tarifaria: los contadores inteligentes pueden adaptarse a diferentes tarifas y horarios, permitiendo a los usuarios aprovechar los tiempos de uso más económicos.
+
+Consejos para ahorrar en la factura de la luz
+Si quieres ahorrar en tu factura de la luz no dejes de seguir nuestros esenciales. Son consejos prácticos, sencillos y muy fáciles de seguir. En cuánto sepas cómo hacerlo, te darás cuenta de que ahorrar en la factura de la luz es más fácil de lo que piensas.
+
+La clave está en exprimir al máximo la eficiencia energética de tu vivienda, realizando un consumo de luz de forma inteligente y sin renunciar a nada.
+
+1. Revisa tu potencia contratada
+La potencia contratada es uno de los aspectos más importantes de nuestra factura eléctrica y, a menudo, es uno de los más desconocidos. Revisar y ajustar correctamente este parámetro puede ser clave para ahorrar en la factura de la luz.
+
+La potencia contratada es la cantidad máxima de electricidad que puedes consumir simultáneamente sin que salte el interruptor. Se mide en kilovatios (kW) y se paga un precio fijo por cada kW contratado, independientemente de si se utiliza o no.
+
+Puede ocurrir que tus facturas de luz sean tan alta porque tengas contratada una potencia superior a la que realmente necesitas. Esto puede ser resultado de recomendaciones exageradas en el momento de alta del suministro o cambios en los hábitos de consumo del hogar.
+
+Si nunca has tenido problemas de cortes por sobrepasar la potencia al usar varios electrodomésticos al mismo tiempo, es posible que puedas reducir la potencia contratada. 
+
+Al reducir la potencia contratada, la parte fija de tu factura (el término de potencia) disminuirá. Sin embargo, es crucial asegurarse de que la nueva potencia sigue siendo suficiente para tus necesidades diarias, ya que incrementarla nuevamente puede conllevar costos adicionales.
+
+2. Considera cambiar de proveedor
+Uno de los factores clave para ahorrar en la factura de la luz es elegir una tarifa eléctrica adecuada a tus necesidades. No todas las tarifas son iguales y es crucial entender las diferencias entre ellas:
+
+Tarifas con precio fijo: en estas tarifas, el precio del kWh es siempre el mismo, sin importar la hora del día o el día de la semana. Son ideales para quienes tienen un consumo constante y no pueden adaptarse a horarios determinados.
+Tarifas con discriminación horaria: con este tipo de tarifa, el precio del kWh varía según la hora del día y el día de la semana, siendo más económico en las horas valle y más caro en las horas punta. Si puedes adaptar tu consumo a los horarios donde la energía es más barata, puedes ahorrar en la factura de la luz de manera significativa.
+Aprovéchate de la calculadora de ahorro online de TotalEnergies y descubre cuál de sus tarifas es la que mejor se adapta a tus hábitos de consumo.
+
+3. Mira las etiquetas de eficiencia energética
+Para ahorrar en la factura de la luz, es fundamental considerar la eficiencia energética de los electrodomésticos que adquieras. 
+
+Las nuevas etiquetas clasifican los electrodomésticos desde la categoría A (la más eficiente) hasta la G (la menos eficiente) y te proporcionan información sobre cuánto consume un dispositivo:
+
+Un electrodoméstico con etiqueta A puede consumir hasta un 60 % menos de energía que uno de categoría C.
+Es importante entender que, con el actual sistema de etiquetado, muchos productos que anteriormente tenían una clasificación A+++ podrían ahora estar en la categoría B o C. Desde marzo de 2021, la Unión Europea introdujo un nuevo sistema de etiquetado para simplificar y actualizar el proceso.
+Aunque inicialmente los dispositivos con una calificación A pueden ser más caros, a la larga te permitirán ahorrar en la factura de la luz gracias a su menor consumo.
+Al adquirir nuevos electrodomésticos, prioriza aquellos con etiquetas A o B para garantizar un consumo eficiente. Estos dispositivos podrían tener un coste inicial más alto, pero te permitirán ahorrar significativamente a largo plazo en tu factura de la luz.
+
+4. Cambia a iluminación LED
+El cambio a bombillas LED es uno de los pasos más sencillos y efectivos para ahorrar en la factura de la luz.
+
+Las bombillas LED consumen hasta un 85 % menos energía que las incandescentes tradicionales.
+Su vida útil es mucho más larga. Mientras una bombilla incandescente puede durar alrededor de 1.000 horas, una LED puede durar hasta 25.000 horas o más.
+Aunque el precio inicial de las bombillas LED puede ser más alto, los ahorros a largo plazo en consumo eléctrico y en reemplazo de bombillas justifican la inversión.
+Al comprar bombillas LED, asegúrate de elegir la tonalidad adecuada (cálida o fría) según el ambiente que desees crear en cada espacio de tu hogar.
+
+5. Desconecta aparatos que no uses
+Desconectar los dispositivos electrónicos que no estés utilizando es esencial para ahorrar en la factura de la luz. Aquí hay algunas razones y consejos para ello:
+
+Consumo fantasma: muchos aparatos continúan consumiendo energía incluso cuando están apagados. A este consumo se le conoce como consumo en modo de espera o consumo fantasma. Si bien este consumo es pequeño por dispositivo, al sumar todos los dispositivos de tu hogar, el costo puede aumentar significativamente.
+Regletas inteligentes: una solución práctica es utilizar regletas con interruptores. De esta forma, cuando no estés utilizando varios dispositivos, puedes apagar la regleta y asegurarte de que no haya consumo innecesario.
+Desenchufa cargadores: los cargadores de móviles y otros dispositivos siguen consumiendo energía incluso cuando no están cargando. Haz un hábito de desenchufarlos cuando no estén en uso.
+6. Ajusta y posiciona correctamente tu termostato
+El termostato es uno de los principales elementos que puede ayudarte a ahorrar en la factura de la luz. Aquí te dejo algunos consejos:
+
+Ajuste adecuado: a menudo, ajustar el termostato un grado abajo en invierno o un grado arriba en verano puede generar un ahorro significativo en la factura eléctrica sin afectar demasiado tu confort.
+Posicionamiento: evita colocar el termostato cerca de fuentes de calor como ventanas, radiadores o electrodomésticos. Esto podría hacer que el termostato detecte una temperatura incorrecta y funcione de forma ineficiente.
+Termostatos inteligentes: estos dispositivos aprenden de tus hábitos y se ajustan automáticamente para garantizar una temperatura confortable mientras maximizan la eficiencia energética.
+7. Adapta tu consumo según tu tarifa y estación
+Ahorrar en la factura de la luz requiere de adaptarse a las circunstancias del entorno. Por eso es vital:
+
+Conocer tu tarifa: si cuentas con una tarifa de discriminación horaria, aprovecha las horas valle para consumir más energía (por ejemplo, lavar ropa o cargar dispositivos). De esta forma, estarás pagando una tarifa más económica por la electricidad.
+Estaciones del año: durante el verano, aprovecha las horas más frescas del día para ventilar tu casa, y cierra ventanas y persianas durante las horas más calurosas para mantener el fresco. En invierno, aprovecha la luz solar para calentar estancias y cierra bien las ventanas y puertas para mantener el calor.
+Electrodomésticos eficientes: en épocas de mayor consumo, como el verano con el aire acondicionado o el invierno con la calefacción, asegúrate de que tus dispositivos sean eficientes y estén bien mantenidos para consumir la menor energía posible.
+8. Mantén en buen estado tus instalaciones y aparatos
+Realizar un mantenimiento regular de tus sistemas de calefacción, aire acondicionado y electrodomésticos puede hacer que funcionen de manera más eficiente y duradera. Por ejemplo, limpiar o cambiar los filtros de tu aire acondicionado o caldera puede mejorar su eficiencia en un 5-10 %.
+
+En TotalEnergies está disponible el seguro de hogar Facilita, que te permitirá tener todos tus electrodomésticos a punto. Además, si al contratar cualquier tarifa con TotalEnergies añades Facilita podrás disfrutar de exclusivos descuentos en tus facturas.
+
+9. Aprovecha al máximo la luz natural
+Utilizar eficientemente la luz natural no solo embellece y revitaliza tus espacios, sino que también te ayuda a ahorrar en la factura de la luz:
+
+Ubica tus espacios: sitúa tus lugares de trabajo o lectura cerca de las ventanas para aprovechar al máximo la luz del día.
+Cortinas y persianas: utiliza cortinas de colores claros que permitan la entrada de luz sin comprometer la privacidad. Asimismo, alza las persianas durante las horas de sol.
+Espejos y colores claros: los espejos reflejan la luz, y si los ubicas estratégicamente, pueden ayudar a iluminar áreas oscuras. Además, los colores claros en las paredes y techos reflejan más luz que los oscuros.
+10. La domótica es tu aliada
+La automatización de la vivienda o domótica puede jugar un papel fundamental para ahorrar en la factura de la luz:
+
+Automatización de luces: los sistemas de iluminación inteligente pueden programarse para encenderse o apagarse según la presencia en la habitación, o según la hora del día.
+Electrodomésticos inteligentes: estos pueden programarse para funcionar en las horas donde la tarifa eléctrica es más económica.
+Monitorización del consumo: los sistemas de domótica a menudo incluyen monitoreo en tiempo real del consumo eléctrico, lo que te permite identificar y corregir rápidamente los picos de consumo.
+11. Apuesta por la energía solar
+Instalar paneles solares es una inversión inicial que, a largo plazo, te ayudará a ahorrar en la factura de la luz:
+
+Energía gratuita: una vez instalados, los paneles solares te proporcionarán energía gratuita aprovechando la luz del sol.
+Incentivos y subvenciones: en muchos lugares, hay incentivos fiscales y subvenciones disponibles para quienes deciden instalar paneles solares.
+Valor añadido a tu hogar: además del ahorro en la factura, una vivienda con instalación solar suele revalorizarse en el mercado inmobiliario.
+12. Aisla tu hogar
+Un buen aislamiento no solo es esencial para mantener una temperatura agradable en el hogar, sino que también te permite ahorrar en la factura de la luz:
+
+Evita pérdidas de energía: las ventanas, puertas y paredes mal aisladas pueden ser puntos por donde se escape el calor en invierno y entre el calor en verano.
+Invierte en doble acristalamiento: las ventanas con doble acristalamiento reducen significativamente la pérdida de calor y evitan la entrada de frío.
+Material aislante: añade material aislante en techos y paredes. El aislamiento en el ático o bajo el techo es especialmente efectivo para mantener el calor durante el invierno.
